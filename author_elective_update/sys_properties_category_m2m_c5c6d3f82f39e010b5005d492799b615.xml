@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="NeedIt Properties">b6b397782f39e010b5005d492799b62c</category>
+        <order>1</order>
+        <property/>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-17 02:44:28</sys_created_on>
+        <sys_id>c5c6d3f82f39e010b5005d492799b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c5c6d3f82f39e010b5005d492799b615</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-17 02:44:28</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5d2033addb7e574052e3f70fbf961924</instance_id>
+        <instance_name>dev61827</instance_name>
+        <name>sys_properties_category_m2m_c5c6d3f82f39e010b5005d492799b615</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="NeedIt Properties">b6b397782f39e010b5005d492799b62c</category><order>1</order><property/><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-17 02:44:28</sys_created_on><sys_id>c5c6d3f82f39e010b5005d492799b615</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.NeedIt Properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_m2m_c5c6d3f82f39e010b5005d492799b615</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-17 02:44:28</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>1434711884</payload_hash>
+        <record_name>.NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>356b8bbc2fb5e010b5005d492799b6de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-17 02:44:28</sys_created_on>
+        <sys_id>c2c6d7f82f39e010b5005d492799b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1770e3ac4590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-17 02:44:28</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>0ec6d7f83a39e0106ba2209859469414</update_guid>
+        <update_guid_history>0ec6d7f83a39e0106ba2209859469414:1434711884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-17 02:45:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>1cf9edfdbf004403860340335af724e9</sys_id>
+        <sys_metadata>c5c6d3f82f39e010b5005d492799b615</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_c5c6d3f82f39e010b5005d492799b615</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_c5c6d3f82f39e010b5005d492799b615">c2c6d7f82f39e010b5005d492799b615</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-17 02:45:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
